@@ -1,6 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=OrbitCodePL&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20@%20orbitcode.pl&descAlignY=58&descAlign=50" />
 
 <p align="center">
+  <a href="https://orbitcode.pl">🌐 Strona</a> •
+  <a href="https://discord.gg/orbitcode">💬 Discord</a> •
+  <a href="#-tech-stack">🚀 Tech Stack</a> •
+  <a href="#-projekty">📂 Projekty</a> •
+  <a href="#-kontakt">📩 Kontakt</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Java+%7C+Python+%7C+PHP+%7C+Docker;Tworzymy+nowoczesne+aplikacje+webowe" />
 </p>
 
@@ -25,13 +33,19 @@
 
 ---
 
-### 💬 Dołącz na Discord
+### 📂 Projekty
 <p align="center">
-  <a href="https://discord.gg/orbitcode">
-    <img src="https://img.shields.io/badge/Dołącz_do_nas-discord.gg%2Forbitcode-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <br/>
-  Społeczność programistów • Pomoc • Projekty
+  <a href="https://orbitcode.pl"><img src="https://img.shields.io/badge/OrbitCode-Web-0ea5e9?style=for-the-badge" /></a>
+  <a href="https://discord.gg/orbitcode"><img src="https://img.shields.io/badge/Spolecznosc-Discord-5865F2?style=for-the-badge" /></a>
+</p>
+
+> Więcej projektów wkrótce - przypnij 6 repo w `Customize your pins` żeby tu się wyświetlały kafelki.
+
+---
+
+### 📩 Kontakt
+<p align="center">
+  <a href="https://orbitcode.pl">orbitcode.pl</a> • <a href="https://discord.gg/orbitcode">discord.gg/orbitcode</a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
